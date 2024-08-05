@@ -175,12 +175,12 @@ h1 {
         margin: 0;
         padding: 0;
     }
-    /* html,
+    html,
     body{
         height: 100%;
         width: 100%;
         overflow: hidden;
-    } */
+    }
     .navbar img{
         width: 100px;
     }
