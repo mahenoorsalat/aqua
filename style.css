@@ -169,6 +169,23 @@ h1 {
 .social-icons a:hover {
     background: #fff;
     color: #000;
+
+}
+
+@media only screen and (min-width: 421px) and (max-width: 1023px){
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    html,
+    body{
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+    }
+    .social-icons{
+        margin-right: 45px;
+    }
 }
 @media (max-width:420px){
     *{
