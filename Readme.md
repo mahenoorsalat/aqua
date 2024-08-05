@@ -6,7 +6,7 @@ This project is a sleek and modern landing page featuring smooth animated effect
 
 ## Preview
 
-![Landing Page Preview](images/preview.png)
+![Landing Page Preview](https://images.pexels.com/photos/5473026/pexels-photo-5473026.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
 ## Features
 
